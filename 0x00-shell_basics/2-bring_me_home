@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 cd
+=======
+cd ~
+>>>>>>> faec3171a8e6193c601f1d1e59ef7e6f95a0b3f2
