@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Use the 'ps' command with appropriate options to display the processes
 # shellcheck disable=SC2009
 # -e: Select all processes

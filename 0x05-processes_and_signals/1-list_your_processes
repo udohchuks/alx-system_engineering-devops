@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Use the 'ps' command with appropriate options to display the processes
 # -e: Select all processes
 # -o: Custom output format
