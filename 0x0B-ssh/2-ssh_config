@@ -1,0 +1,8 @@
+# configure ssh client
+Host *
+    HashKnownHosts yes
+    GSSAPIAuthentication yes
+    IdentityFile ~/.ssh/school
+    PasswordAuthentication no
+    SendEnv LANG LC_*
+    GSSAPIDelegateCredentials no
